@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Iotec Soluciones
+  url: "https://iotecsoluciones.co"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a software developer with experience in multiple fields;  I have software architecture, backend, frontend and devops skills. I am passionate about my profession and always learning new things and technologies. I studied Electronic Engineering at the University of Cauca and I finished master's courses at the ICESI University. The last 3 years I have focused on web development with Angular, mainly on enterprise projects and I have a community called ngpopayan where we share knowledge about Angular"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 80
+  color: blue
+- name: Team Work
+  percentage: 80
+  color: yellow
+- name: Communication
+  percentage: 80
+  color: pink
+- name: Smart Working
+  percentage: 95
+  color: green
+- name: Fast Learner
+  percentage: 95
+  color: sky
+- name: Problem Solving
+  percentage: 95
+  color: orange
