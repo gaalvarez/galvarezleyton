@@ -18,17 +18,12 @@ markup:
     endLevel: 6
     ordered: false
 
-
-
-
-
-
 # Enable global emoji support
 enableEmoji: true
 
 # Site parameters
 params:
-  background: "images/site/background.jpg"
+  # background: "images/site/background.jpg"
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
 
@@ -42,7 +37,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
-  
+
   logo:
     main: "images/site/logo.png"
     inverted: "images/site/logo.png"
