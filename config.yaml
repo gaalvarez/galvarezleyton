@@ -39,6 +39,6 @@ params:
     enable: true
 
   logo:
-    main: "images/site/logo.png"
-    inverted: "images/site/logo.png"
-    favicon: "images/site/logo.png"
+    main: "images/site/logo-gaalvarez.png"
+    inverted: "images/site/logo-gaalvarez.png"
+    favicon: "images/site/logo-gaalvarez.png"
