@@ -1,4 +1,5 @@
-baseURL: https://gaalvarez.github.io/galvarezleyton.io/
+baseURL: https://gaalvarez.github.io/galvarezleyton.io
+# baseURL: /home/a2g/Documents/Personal/develop/galvarezleyton/public
 
 languageCode: en-us
 title: "Gustavo Álvarez Leyton"
@@ -25,7 +26,7 @@ enableEmoji: true
 params:
   # background: "images/site/background.jpg"
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/gaalvarez/galvarezleyton.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
