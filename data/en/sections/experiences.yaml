@@ -15,7 +15,7 @@ experiences:
       url: "https://iotecsoluciones.co"
       location: Popayán Colombia
       # company overview
-      overview: We Initially developed a platform for tracking vehicular; now we work on software outsourcing projects too.
+      overview: We Initially developed a platform for vehicular tracking; now we work on software outsourcing projects too.
     positions:
       - designation: Founder and Software Architect
         start: 2018
@@ -23,7 +23,7 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Develop all initial version of tracking vehicular platform
+          - Develop all initial version of vehicular tracking platform
           - Design all new architecture for escale
           - Lead developers for build new features
           - Structuring software architecture for outsourcing projects 
