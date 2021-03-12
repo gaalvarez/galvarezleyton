@@ -15,7 +15,7 @@ experiences:
       url: "https://iotecsoluciones.co"
       location: Popayán Colombia
       # company overview
-      overview: We Initialmente developed a platform for tracking vehicular; now we work on software outsourcing projects
+      overview: We Initially developed a platform for tracking vehicular; now we work on software outsourcing projects too.
     positions:
       - designation: Founder and Software Architect
         start: 2018
@@ -26,13 +26,14 @@ experiences:
           - Develop all initial version of tracking vehicular platform
           - Design all new architecture for escale
           - Lead developers for build new features
-          - Many other administrative responsabilities
+          - Structuring software architecture for outsourcing projects 
+          - Technical lead to developers in outsourcing projects
 
   - company:
       name: Sitis (Soluciones Informáticas Integrales en Salud).
       url: "https://sitis.com.co/"
       location: Popayán Colombia
-      overview: expert and committed team that believes in the ability of computer tools to humanize healthcare.
+      overview: Expert and committed team that believes in the ability of computer tools to humanize healthcare.
     positions:
       - designation: Consultant (Software Architect/Developer)
         start: 2016
@@ -61,7 +62,7 @@ experiences:
       name: Universidad Icesi
       url: https://www.icesi.edu.co/
       location: Cali Colombia
-      overview: Private Colombian University whit close relationship with the business sector
+      overview: Colombian University whit close relationship in the business sector
     positions:
       - designation: Young Investigator
         start: feb 2015

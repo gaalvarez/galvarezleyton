@@ -21,17 +21,27 @@ skills:
     summary: "I know the importance of architecture design for the maintainability and productivity. In the projects where I work, I try follow consistent approaches, well defined quality attributes, good practices and I am always open to learning new things which help to improve processes. I worked whit microservices, DDD methodology, queues pattern, 3-layers pattern and others."
     url: "https://golang.org/"
 
+
+  - name: Vue
+    logo: "/images/sections/skills/vue.png"
+    summary: "I worked from last year in two projects using Vue, one project for modernize a legacy jquery app and other structuring a Vue 3 project with typescript and modular architecture."
+    url: "https://vuejs.org/"
+
+
   - name: Docker
     logo: "/images/sections/skills/docker.svg"
-    summary: "I know the basics of Docker, I implemented a platform using Docker using a private registry, and built images from custom Dockerfiles for Angular, Nodejs, SpringBoot, and others."
+    summary: "I know the basics of Docker, I set and deployed a platform using Docker and a private registry, and built images from custom Dockerfiles for Angular, Node Js, Spring Boot, and others."
+    url: "https://www.docker.com/"
 
   - name: Spring Boot
     logo: "/images/sections/skills/spring-boot.png"
-    summary: "I worked using its three layers for expose rest apis using multiple environments, I builth integrations with oauth2 services and message brokers how RabbitMQ."
+    summary: "I worked using its three layers for expose rest apis using multiple environments, I builth integrations with oauth2 services and message broker RabbitMQ."
+    url: "https://spring.io/projects/spring-boot"
 
   - name: NodeJS
     logo: "/images/sections/skills/nodejs.png"
-    summary: "Node Js is one of my favorite technologies for development, I worked whit express for expose apis, I developed a decoder for IOT devices and I used NestJS for other enterprise projects."
+    summary: "Node Js is one of my favorite technologies for development, I worked with express for expose apis, I developed a decoder for IOT devices data, I integrated whit firebase for a push notifications app, and I used NestJS for other enterprise projects."
+    url: "https://nodejs.org/en/"
 
   - name: Relational DBs
     logo: "/images/sections/skills/rdb.png"
