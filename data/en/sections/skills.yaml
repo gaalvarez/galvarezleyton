@@ -13,12 +13,12 @@ section:
 skills:
   - name: Angular
     logo: "/images/sections/skills/angular.png"
-    summary: "Capable of design architecture web, develop and deploy for production Angular Apps. I worked in multiple projects from version 2 to current version. I know all fundaments of angular, and I am familiarized whit multiples advace topics: lazy loading, upgrading, library creation, redux patter whit rxjs, integration whit devops, cloud tools and security whit oauth2-oidc providers."
+    summary: "Capable of design architecture web, develop and deploy for production Angular Apps. I worked in multiple projects from version 2 to current version. I know all fundaments of angular, and I am familiarized with multiples advace topics: lazy loading, upgrading, library creation, redux patter with rxjs, integration with devops, cloud tools and security with oauth2-oidc providers."
     url: "https://angular.io/"
 
   - name: Software Architecture
     logo: "/images/sections/skills/software-architecture.png"
-    summary: "I know the importance of architecture design for the maintainability and productivity. In the projects where I work, I try follow consistent approaches, well defined quality attributes, good practices and I am always open to learning new things which help to improve processes. I worked whit microservices, DDD methodology, queues pattern, 3-layers pattern and others."
+    summary: "I know the importance of architecture design for the maintainability and productivity. In the projects where I work, I try follow consistent approaches, well defined quality attributes, good practices and I am always open to learning new things which help to improve processes. I worked with microservices, DDD methodology, queues pattern, 3-layers pattern and others."
     url: "https://golang.org/"
 
 
@@ -40,7 +40,7 @@ skills:
 
   - name: NodeJS
     logo: "/images/sections/skills/nodejs.png"
-    summary: "Node Js is one of my favorite technologies for development, I worked with express for expose apis, I developed a decoder for IOT devices data, I integrated whit firebase for a push notifications app, and I used NestJS for other enterprise projects."
+    summary: "Node Js is one of my favorite technologies for development, I worked with express for expose apis, I developed a decoder for IOT devices data, I integrated with firebase for a push notifications app, and I used NestJS for other enterprise projects."
     url: "https://nodejs.org/en/"
 
   - name: Relational DBs
