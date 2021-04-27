@@ -13,12 +13,12 @@ section:
 skills:
   - name: Angular
     logo: "/images/sections/skills/angular.png"
-    summary: "Capable of design architecture web, develop and deploy for production Angular Apps. I worked in multiple projects from version 2 to current version. I know all fundaments of angular, and I am familiarized with multiples advace topics: lazy loading, upgrading, library creation, redux patter with rxjs, integration with devops, cloud tools and security with oauth2-oidc providers."
+    summary: "Capable of design architecture web, involving the development and deployment of Angular Apps ready for production. I have had the opportunity to work in multiple projects including from the version 2 to the current version. I know all the basics of Angular and I am totally familiarized with multiple advanced topics such as lazy loading, upgrading, library, creation, redux patter with rxjs, integration with DevOps, cloud tools and security with oauth2-oidc providers."
     url: "https://angular.io/"
 
   - name: Software Architecture
     logo: "/images/sections/skills/software-architecture.png"
-    summary: "I know the importance of architecture design for the maintainability and productivity. In the projects where I work, I try follow consistent approaches, well defined quality attributes, good practices and I am always open to learning new things which help to improve processes. I worked with microservices, DDD methodology, queues pattern, 3-layers pattern and others."
+    summary: "Knowing the importance of architecture design for the maintainability and productivity, I follow consistent approaches and good practices that can be applied in the environment where I work. I have worked with microservices, DDD methodology, queues pattern, 3-layers pattern and so on. I am always willing to learn concepts that lead to the improvement of processes."
     url: "https://golang.org/"
 
 
