@@ -52,7 +52,7 @@ experiences:
       - designation: Teacher
         start: Aug 2019
         end: May 2020
-        responsabilities-title: Subjects in charge
+        responsabilitiesTitle: Subjects in charge
         responsibilities:
           - Artificial Intelligence with Python
           - OOP with Java.
