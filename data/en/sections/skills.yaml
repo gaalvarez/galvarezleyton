@@ -21,28 +21,27 @@ skills:
     summary: "Knowing the importance of architecture design for the maintainability and productivity, I follow consistent approaches and good practices that can be applied in the environment where I work. I have worked with microservices, DDD methodology, queues pattern, 3-layers pattern and so on. I am always willing to learn concepts that lead to the improvement of processes."
     url: "https://golang.org/"
 
-
   - name: Vue
     logo: "/images/sections/skills/vue.png"
-    summary: "I worked from last year in two projects using Vue, one project for modernize a legacy jquery app and other structuring a Vue 3 project with typescript and modular architecture."
+    summary: "I have recently worked on two projects implementing Vue. One project involved the modernization of a legacy jQuery app while the other one implicated the structuring of a Vue 3 project with typescript and modular architecture."
     url: "https://vuejs.org/"
 
 
   - name: Docker
     logo: "/images/sections/skills/docker.svg"
-    summary: "I know the basics of Docker, I set and deployed a platform using Docker and a private registry, and built images from custom Dockerfiles for Angular, Node Js, Spring Boot, and others."
+    summary: "Knowing the basics of Docker, it has allowed me to set and deploy apps in containers. I am qualified in the creation of Dockerfiles to build images for Angular, Node.js, Spring Boot, and other languages."
     url: "https://www.docker.com/"
 
   - name: Spring Boot
     logo: "/images/sections/skills/spring-boot.png"
-    summary: "I worked using its three layers for expose rest apis using multiple environments, I builth integrations with oauth2 services and message broker RabbitMQ."
+    summary: "I worked using its three layers to expose REST APIS using multiple environments, I built integrations with OAuth2 services and RabbitMQ."
     url: "https://spring.io/projects/spring-boot"
 
   - name: NodeJS
     logo: "/images/sections/skills/nodejs.png"
-    summary: "Node Js is one of my favorite technologies for development, I worked with express for expose apis, I developed a decoder for IOT devices data, I integrated with firebase for a push notifications app, and I used NestJS for other enterprise projects."
+    summary: "Node.js is one of my favorite technologies for development. I have not only had the opportunity to work with Express to expose APIS but also, I have developed a decoder for IOT devices data. Additionally, I have worked with NestJS in other enterprise projects. Firebase was also integrated by me in a push notifications app."
     url: "https://nodejs.org/en/"
 
   - name: Relational DBs
     logo: "/images/sections/skills/rdb.png"
-    summary: "I know the fundamentals of design relational databases, I used multiple tools for differents database engines (mysql workbend, pgModeler, DBeaver for example). I worked conneting to different databases from JavaEE, NodeJS, Spring Boot."
+    summary: "I am familiar with the fundamental skills of designing relational databases. I have the required expertise in working with multiple tools such as MySQL Workbench, pgModeler and DBeaver for different database engines. I am capable of connecting to different databases from JavaEE, NodeJS and Spring Boot apps."

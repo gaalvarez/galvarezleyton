@@ -15,61 +15,62 @@ experiences:
       url: "https://iotecsoluciones.co"
       location: Popayán Colombia
       # company overview
-      overview: We Initially developed a platform for vehicular tracking; now we work on software outsourcing projects too.
+      overview: We initially developed a platform for vehicular tracking, and today we continue giving the support to this service. Last year we were working in software outsourcing projects as well.
     positions:
       - designation: Founder and Software Architect
         start: 2018
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        # end: Dec 2020
+        end: Jan 2021
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Develop all initial version of vehicular tracking platform
-          - Design all new architecture for escale
-          - Lead developers for build new features
-          - Structuring software architecture for outsourcing projects 
-          - Technical lead to developers in outsourcing projects
+          - Developing the initial version of vehicular tracking platform.
+          - Designing all new architecture to support new users.
+          - Leading developers for building new features.
+          - Designing software architecture for outsourcing projects.
+          - Technical lead to developers in outsourcing projects.
 
   - company:
-      name: Sitis (Soluciones Informáticas Integrales en Salud).
+      name: SITIS (Soluciones Informáticas Integrales en Salud) - (Comprehensible IT solutions in health).
       url: "https://sitis.com.co/"
       location: Popayán Colombia
-      overview: Expert and committed team that believes in the ability of computer tools to humanize healthcare.
+      overview: Professional and committed team that believes in the ability of computer tools to humanize healthcare.
     positions:
       - designation: Consultant (Software Architect/Developer)
         start: 2016
         responsibilities:
-          - Design architecture for new projects
-          - Write code for advace requirements
-          - Advice on multiple design decisions
-          - Training in new technologies to the team
+          - Designing architecture for new projects.
+          - Writing code for advanced requirements.
+          - Expert advisor on numerous design decisions.
+          - Team mentor in the field of new technologies.
 
   - company:
-      name: Universidad Cooperativa de Colombia.
+      name: Universidad Cooperativa de Colombia (Cooperative University of Colombia)
       url: "https://www.ucc.edu.co/"
       location: Popayán Colombia
-      overview: Colombian multicampus university
+      overview: Colombian Multicampus University
     positions:
       - designation: Teacher
         start: Aug 2019
         end: May 2020
+        responsabilities-title: Subjects in charge
         responsibilities:
-          - Artificial Intelligence with python
-          - OOP with Java
-          - Ux and Mobile develop with React Native
+          - Artificial Intelligence with Python
+          - OOP with Java.
+          - Ux and Mobile development with React Native
           - Software Architecture
 
   - company:
-      name: Universidad Icesi
+      name: Universidad ICESI (ICESI University) 
       url: https://www.icesi.edu.co/
       location: Cali Colombia
-      overview: Colombian University with close relationship in the business sector
+      overview: Colombian University with close relationships in the business sector.
     positions:
       - designation: Young Investigator
-        start: feb 2015
-        end: dec 2016
+        start: Feb 2015
+        end: Dec 2016
         responsibilities:
-          - Computer Science and Telecommunications Master's Student
-          - Responsible for a research project with state funding
+          - Computer Science and Telecommunications Master’s Student.
+          - In charge of a research project with state funding.
 
   - company:
       name: HDS (Health Digital Systems)
@@ -77,11 +78,11 @@ experiences:
       location: Popayán Colombia
       overview: Mexican company dedicated to the construction of software in the health sector.
     positions:
-      - designation: From junior develper to Architect junior
+      - designation: Junior Developer - Junior Architect
         start: Aug 2013
-        end: Septiembre 2014
+        end: Sep 2014
         responsibilities:
-          - Develop requirements for java ee aplication using JSF
-          - Technical leader of a development team in charge of building an expert system using drools
-          - Create new maven Archetypes for a modular aplication
-          - Code reviews and rule settings using sonarqube
+          - Developing requirements for java EE application using JSF.
+          - Technical leader in a development team in charge of building an expert system using Drools.
+          - Creating new Maven Archetypes for a modular application.
+          - Code reviews and rule settings using SonarQube.

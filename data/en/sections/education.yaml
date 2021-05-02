@@ -13,7 +13,7 @@ degrees:
 - name: Master's in Informatics and Telecommunications
   icon: fa-brain
   timeframe: 2015 - 
-  description: Not graduated, completed subjects at 2017
+  description: Not graduated
   institution:
     name: Universidad Icesi (Cali, Colombia)
     url: "https://www.icesi.edu.co/"
@@ -22,7 +22,7 @@ degrees:
     achieved: 4.3
     outOf: 5
 
-- name: Engineering in electronics and telecommunications
+- name: Engineering in Electronics and Telecommunications
   icon: fa-laptop-code
   timeframe: 2007 - 2013
   institution:
@@ -32,12 +32,3 @@ degrees:
     scale: CGPA
     achieved: 4.1
     outOf: 5
-
-- name: high School
-  icon: fa-table
-  timeframe: 2001 - 2007
-  description: Best ICFES result
-  institution:
-    name: Institution Educativa Juan Pablo I (La Llanada-Nariño, Colombia)
-    url: "#"
-  

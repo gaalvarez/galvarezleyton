@@ -18,7 +18,7 @@ designation: Software Engineer
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a software developer with experience in multiple fields. I have developed multiple skills in the field of software architecture, backend, fronted and DevOps. I am passionate about my profession and always learning new things and technologies. I got my degree in Electronic Engineering at the University of Cauca. Currently, I am pursuing my master degree at the ICESI University where I already completed  all my master's degree courses. For the last 3 years, I have focused on Web development with Angular and Vue mainly on enterprise projects. Currently, I am the co-creator of a community known as ngpopayan where we share knowledge about Angular."
+summary: "I am a software developer with experience in multiple fields. I have developed multiple skills in the field of software architecture, backend, frontend and DevOps. I am passionate about my profession and I am always at the forefront of new technologies. I got my degree in Electronic Engineering at the University of Cauca. At the moment, I am pursuing my master degree at the ICESI University where I have already completed all my master’s degree courses. Over the last 3 years, I have focused on Web development with Angular and Vue mainly on enterprise projects."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -37,15 +37,6 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 80
-  color: blue
-- name: Team Work
-  percentage: 80
-  color: yellow
-- name: Communication
-  percentage: 80
-  color: pink
 - name: Smart Working
   percentage: 95
   color: green
@@ -55,3 +46,12 @@ softSkills:
 - name: Problem Solving
   percentage: 95
   color: orange
+- name: Leadership
+  percentage: 80
+  color: blue
+- name: Team Work
+  percentage: 80
+  color: yellow
+- name: Communication
+  percentage: 80
+  color: pink
